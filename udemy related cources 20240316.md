@@ -50,6 +50,7 @@
     
 -   [Aerospace Engineering: Aircraft Structures and Materials | Udemy](https://www.udemy.com/course/aerospace-engineering-aircraft-structures-and-materials/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.EN_cc.CA&utm_term=_._ag_153569016201_._ad_661216244572_._kw__._de_c_._dm__._pl__._ti_dsa-19959388920_._li_9061023_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQjwhtWvBhD9ARIsAOP0GogO0E2RAcIDUtlbHya1VMHh3AJX5rEOUozS73E6LjR4MvP2yl_aEzMaAir5EALw_wcB&couponCode=2021PM20)(5.5h, a)
     
+-   [Sensors: Everything You Need To Know | Udemy](https://www.udemy.com/course/sensors-interfacing-sensor-wiring-sensor-temperature-humidity-sensors/?couponCode=2021PM20) (2h, a)
 
 # 编程语言
 

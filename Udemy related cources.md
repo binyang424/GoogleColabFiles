@@ -34,6 +34,8 @@
     
 -   [Deep Learning with PyTorch for Medical Image Analysis | Udemy](https://www.udemy.com/course/deep-learning-with-pytorch-for-medical-image-analysis/?couponCode=2021PM20)(12h, a)
 
+-   [The Complete Neural Networks Bootcamp: Theory, Applications | Udemy](https://www.udemy.com/course/the-complete-neural-networks-bootcamp-theory-applications/?couponCode=KEEPLEARNING)(43.5h, b)
+
 # 工程应用
 
 -   [Mechanical Engineering Design - The Ultimate Course | Udemy](https://www.udemy.com/course/mechanical-engineering-design-ultimate-course/?couponCode=2021PM20)(18.6h, a)

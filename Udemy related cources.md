@@ -54,6 +54,12 @@
     
 -   [Sensors: Everything You Need To Know | Udemy](https://www.udemy.com/course/sensors-interfacing-sensor-wiring-sensor-temperature-humidity-sensors/?couponCode=2021PM20) (2h, a)
 
+
+# 3D建模与渲染
+
+- [SOLIDWORKS Academy A Comprehensive Course on SolidWorks  Udemy](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/course/solidworks-ncd/)(24h, a)
+- [3ds Max Zero to Hero The Complete Guide To 3D Modeling  Udemy](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/course/3ds-max-zero-to-hero/)（12h, a）
+
 # 编程语言
 
 -   [C++ programming step-by-step: From Beginner to Advanced | Udemy](https://www.udemy.com/course/cplusplus-programming-step-by-step/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Webindex_Catchall_la.EN_cc.CA&utm_term=_._ag_119831896715_._ad_533102824920_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_9061023_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQjwhtWvBhD9ARIsAOP0GoiR2m01b2bZZR3QRwE2oOx657SsQqQQYI96Lldsm7-In4Wvreyz3xYaAgz4EALw_wcB&couponCode=2021PM20)(27.5h, b)

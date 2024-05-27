@@ -16,7 +16,7 @@ SQLite是一种轻量级的关系型数据库引擎（关系型数据库管理�
 
 ### 工作原理
 
-不像常见的客户—服务器范例，SQLite引擎不是个程序与之通信的独立进程，而是连接到程序中成为它的一个主要部分。所以主要的通信协议是在编程语言内的直接API调用。这在消耗总量、延迟时间和整体简单性上有积极的作用。整个数据库（定义、表、索引和数据本身）都在宿主主机上存储在一个单一的文件中。它的简单的设计是通过在开始一个事务的时候锁定整个数据文件而完成的。
+不像常见的Client-Sever范例，SQLite引擎不是个程序与之通信的独立进程，而是连接到程序中成为它的一个主要部分。所以主要的通信协议是在编程语言内的直接API调用。这在消耗总量、延迟时间和整体简单性上有积极的作用。整个数据库（定义、表、索引和数据本身）都在宿主主机上存储在一个单一的文件中。它的简单的设计是通过在开始一个事务的时候锁定整个数据文件而完成的。
 
 ### 功能特性
 
@@ -40,23 +40,7 @@ SQLite是一种轻量级的关系型数据库引擎（关系型数据库管理�
 -   独立，没有额外依赖
 -   支持多种开发语言，C，C++，PHP，Perl，Java，C#，Python，Ruby等
 
-同时它还支持事务处理功能等等。也有人说它象Microsoft的Access，有时候真的觉得有点象，但是事实上它们区别很大。比如SQLite 支持跨平台，操作简单，能够使用很多语言直接创建数据库，而不象Access一样需要Office的支持。如果你是个很小型的应用，或者你想做嵌入式开发，没有合适的数据库系统，那么你可以考虑使用SQLite。
-
-### 常用函数
-
-SQLite 有许多内置函数用于处理字符串或数字数据。下面列出了一些有用的 SQLite 内置函数，且所有函数都是大小写不敏感的：
-
--   **SQLite COUNT 函数**：SQLite COUNT 聚集函数是用来计算一个数据库表中的行数。
--   **SQLite MAX 函数**：SQLite MAX 聚合函数允许我们选择某列的最大值。
--   **SQLite MIN 函数**：SQLite MIN 聚合函数允许我们选择某列的最小值。
--   **SQLite AVG 函数**：SQLite AVG 聚合函数计算某列的平均值。
--   **SQLite SUM 函数**：SQLite SUM 聚合函数允许为一个数值列计算总和。
--   **SQLite RANDOM 函数**：SQLite RANDOM 函数返回一个介于 -9223372036854775808 和 +9223372036854775807 之间的伪随机整数。
--   **SQLite ABS 函数**：SQLite ABS 函数返回数值参数的绝对值。
--   **SQLite UPPER 函数**：SQLite UPPER 函数把字符串转换为大写字母。
--   **SQLite LOWER 函数**：SQLite LOWER 函数把字符串转换为小写字母。
--   **SQLite LENGTH 函数**：SQLite LENGTH 函数返回字符串的长度。
--   **SQLite sqlite\_version 函数**：SQLite sqlite\_version 函数返回 SQLite 库的版本。
+同时它还支持事务处理功能、支持跨平台等等。如果你是个很小型的应用，或者你想做嵌入式开发，没有合适的数据库系统，那么你可以考虑使用SQLite。
 
 ## 2、键值对存储
 
@@ -135,6 +119,22 @@ HAVING COUNT(*) > 1;
     -   **group\_filter**: 指定的过滤条件。
 
 一个完整的SQL查询可能包含这些子句中的部分或全部，以实现复杂的数据检索和处理。
+
+## 常用函数
+
+SQLite 有许多内置函数用于处理字符串或数字数据。下面列出了一些有用的 SQLite 内置函数，且所有函数都是大小写不敏感的：
+
+-   **SQLite COUNT 函数**：SQLite COUNT 聚集函数是用来计算一个数据库表中的行数。
+-   **SQLite MAX 函数**：SQLite MAX 聚合函数允许我们选择某列的最大值。
+-   **SQLite MIN 函数**：SQLite MIN 聚合函数允许我们选择某列的最小值。
+-   **SQLite AVG 函数**：SQLite AVG 聚合函数计算某列的平均值。
+-   **SQLite SUM 函数**：SQLite SUM 聚合函数允许为一个数值列计算总和。
+-   **SQLite RANDOM 函数**：SQLite RANDOM 函数返回一个介于 -9223372036854775808 和 +9223372036854775807 之间的伪随机整数。
+-   **SQLite ABS 函数**：SQLite ABS 函数返回数值参数的绝对值。
+-   **SQLite UPPER 函数**：SQLite UPPER 函数把字符串转换为大写字母。
+-   **SQLite LOWER 函数**：SQLite LOWER 函数把字符串转换为小写字母。
+-   **SQLite LENGTH 函数**：SQLite LENGTH 函数返回字符串的长度。
+-   **SQLite sqlite\_version 函数**：SQLite sqlite\_version 函数返回 SQLite 库的版本。
 
 # 三、Python SQLite 入门
 

@@ -1,3 +1,8 @@
+---
+title: 单机（不联网）软件的数据存储
+post_status: publish
+---
+
 # 一、单机软件（不联网）的数据存储
 
 ## 1、SQLite

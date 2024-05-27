@@ -1,3 +1,8 @@
+---
+title: 研究方向相关的Udemy课程
+post_status: publish
+---
+
 # 1. 理论基础与数值分析方法
 
 -   [Computational Physics: Scientific Programming with Python](https://www.udemy.com/course/computational-physics/?couponCode=2021PM20)(21h, a)

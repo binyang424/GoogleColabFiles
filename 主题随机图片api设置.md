@@ -1,3 +1,10 @@
+---
+title: 博客主题随机图片api设置
+post_status: publish
+post_excerpt: WordPress主题背景图设置方法
+featured_image: _images/image-20240527172211756.png
+---
+
 由于之前的博客首页和文章封面图的api失效，不得不更换新的图像随机api。上次设置过了太长时间，导致对图片api的设置方法已经完全忘记了，最终又一个一个的设置界面尝试，因此再本博客中记下，以防止未来api再次失效。
 
 # 1. 当前图像api

@@ -28,7 +28,7 @@ Bing搜索的壁纸一直在线，且避免了个人搭建的图像api存在不�
 
 在以下界面进行图片API设置：
 
-![image-20240527173700100](https://raw.githubusercontent.com/binyang424/GoogleColabFiles/main/mdimage/%E4%B8%BB%E9%A2%98%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87api%E8%AE%BE%E7%BD%AE/image-20240527173700100.png)
+![](https://raw.githubusercontent.com/binyang424/GoogleColabFiles/main/mdimage/%E4%B8%BB%E9%A2%98%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87api%E8%AE%BE%E7%BD%AE/image-20240527173700100.png)
 
 # 4. 备份设置
 

@@ -1,6 +1,7 @@
 ---
 title: 单机（不联网）软件的数据存储
 post_status: publish
+post_date: 2024-05-21
 ---
 
 # 一、单机软件（不联网）的数据存储

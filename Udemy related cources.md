@@ -67,6 +67,8 @@
 
 -   [SQLite for beginners](https://www.udemy.com/course/sqlite-for-beginners/?couponCode=LEADERSALE24B) (4h, a)
 
+-   [Mastering Visual Studio Code (2024) | Udemy](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=KEEPLEARNING)(8h, a)
+
 # 6. GUI & QT
 
 -   [Qt 6 Core Beginners with C++](https://www.udemy.com/course/qt-6-core-beginners-with-cpp/?kw=Qt+6+Core+Beginners+with+C%2B%2B&src=sac&couponCode=LEADERSALE24B)(15.5h, a)

@@ -22,19 +22,19 @@ Bing搜索的壁纸一直在线，且避免了个人搭建的图像api存在不�
 
 在如下后台界面设置外部API随机图片地址即可。
 
-![](https://raw.githubusercontent.com/binyang424/GoogleColabFiles/main/mdimage/%E4%B8%BB%E9%A2%98%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87api%E8%AE%BE%E7%BD%AE/image-20240527172211756.png)
+![](_images/image-20240527172211756.png)
 
 # 3. 文章封面图片
 
 在以下界面进行图片API设置：
 
-![](https://raw.githubusercontent.com/binyang424/GoogleColabFiles/main/mdimage/%E4%B8%BB%E9%A2%98%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87api%E8%AE%BE%E7%BD%AE/image-20240527173700100.png)
+![](_images/image-20240527173700100.png)
 
 # 4. 备份设置
 
 所有设置可以进行备份，以便在有需要时导入恢复当前设置：
 
-![](https://raw.githubusercontent.com/binyang424/GoogleColabFiles/main/mdimage/%E4%B8%BB%E9%A2%98%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87api%E8%AE%BE%E7%BD%AE/image-20240527173813974.png)
+![](_images/image-20240527173813974.png)
 
 # 参考/引用链接
 

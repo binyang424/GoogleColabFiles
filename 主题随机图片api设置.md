@@ -38,4 +38,4 @@ Bing搜索的壁纸一直在线，且避免了个人搭建的图像api存在不�
 
 # 参考/引用链接
 
-1. [开放API接口 - Bing每日壁纸档案库](https://bing.img.run/api.html)
+1. [开放API接口](https://bing.img.run/api.html)

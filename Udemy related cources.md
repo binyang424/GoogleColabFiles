@@ -1,6 +1,7 @@
 ---
 title: 研究方向相关的Udemy课程
 post_status: publish
+post_date: 2024-03-25 18:00:00
 ---
 
 # 1. 理论基础与数值分析方法

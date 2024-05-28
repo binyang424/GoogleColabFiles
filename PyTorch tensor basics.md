@@ -1,5 +1,5 @@
 ---
-title: PyTorch Tensor的基本操作
+title: [PyTorch] PyTorch Tensor的基本操作
 post_date: 2024-04-27 23:46:00
 ---
 

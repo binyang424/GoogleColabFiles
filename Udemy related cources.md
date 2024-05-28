@@ -18,6 +18,7 @@ post_date: 2024-03-25 18:00:00
 -   [Complete Guide to Rotations and Transformations](https://www.udemy.com/course/complete-guide-to-rotations-and-transformations/?couponCode=2021PM20)(7.5h)
 -   [OpenFOAM Intermediate](https://www.udemy.com/course/openfoam-intermediate/?couponCode=2021PM20)(6.5h, a)
 -   [Mastering CATIA Composite Design Beginner to Professional](https://www.udemy.com/course/mastering-catia-composite-design-beginner-to-professional/?couponCode=LEADERSALE24B) (4h, a)
+-   [Abaqus Tutorial: Adhesive Joints and Composite Material | Udemy](https://www.udemy.com/course/abaqus-tutorial-intermediate/?couponCode=KEEPLEARNING)(5h, a)
 
 # 2. 机器学习与数字图像处理
 

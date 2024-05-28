@@ -33,7 +33,7 @@ post_date: 2024-05-28 13:27:00
       
       渲染效果：
       $$
-      \\int_0^\\infty e^{-x^2} \\\, dx = \\frac{\\sqrt{\\pi}}{2}
+      \\\int_0^\\\infty e^{-x^2} \\\, dx = \\\frac{\\\sqrt{\\\pi}}{2}
       $$
       
     - 与 Word 不同，Markdown 在处理复杂公式时不会出现卡顿现象，使得文档编辑更加流畅。

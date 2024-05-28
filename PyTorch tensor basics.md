@@ -1,7 +1,6 @@
 ---
 title: PyTorch Tensor的基本操作
 post_status: publish
-skip_file: no
 post_date: 2024-03-27 23:46:00
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: PyTorch Tensor的基本操作
-post_status: publish
-post_date: 2024-03-27 23:46:00
+post_date: 2024-05-27 23:46:00
 ---
 
 

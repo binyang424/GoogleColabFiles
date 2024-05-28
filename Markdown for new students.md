@@ -1,5 +1,5 @@
 ---
-title: 液体成型方向新生Markdown 使用要求
+title: 液体成型方向新生Markdown使用要求
 post_date: 2024-05-28 13:27:00
 ---
 

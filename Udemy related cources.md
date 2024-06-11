@@ -51,29 +51,18 @@ post_date: 2024-03-25 18:00:00
 # 5. 编程语言
 
 -   [C++ programming step-by-step: From Beginner to Advanced](https://www.udemy.com/course/cplusplus-programming-step-by-step/?kw=C%2B%2B+programming+step-by-step%3A+From+Beginner+to+Advanced&src=sac&couponCode=LEADERSALE24B)(27.5h, a)
-    
 -   [Complete C++ Scientific Programming Bundle - 21 Hours!](https://www.udemy.com/course/cpp-for-scientific-programming/?kw=Complete+C%2B%2B+Scientific+Programming+Bundle&src=sac&couponCode=LEADERSALE24B)(21h, a)
-    
+-   [Scientific Computing in C++ ](https://www.udemy.com/course/scientific-computing-in-c/?couponCode=ST21MT61124) （18h, a）
 -   [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/?kw=Mastering+Data+Structures+%26+Algorithms+using+C+and+C%2B%2B&src=sac&couponCode=LEADERSALE24B)(58.5h, a, 61.86 GB)
-    
 -   [Make and Makefile for C/C++ Projects](https://www.udemy.com/course/make-and-makefile-for-cc-projects-2022-edition/?kw=Make+and+Makefile+for+C%2FC%2B%2B+Projects&src=sac&couponCode=LEADERSALE24B) (1h, a, fini)
-    
 -   [CMake, Tests and Tooling for C/C++ Projects [2024 Edition]](https://www.udemy.com/course/cmake-tests-and-tooling-for-cc-projects/?kw=CMake%2C+Tests+and+Tooling+for+C%2FC%2B%2B+Projects&src=sac&couponCode=LEADERSALE24B)(5.5h, a)
-    
 -   [GNU Make & Makefile To Build C/C++ Projects(LINUX,MAC)[2024]](https://www.udemy.com/course/gnu-make-makefile-to-build-cc-projects-linuxmac/?couponCode=2021PM20) (4.5h, a)
-
 -   [OpenAI API with Python Bootcamp: ChatGPT API, GPT-4, DALL·E](https://www.udemy.com/course/openai-api-chatgpt-gpt4-with-python-bootcamp/?couponCode=2021PM20)(11h, b)
-
 -   [Software Architecture & System Design Practical Case Studies](https://www.udemy.com/course/software-architecture-system-design-practical-case-studies/?kw=Software+Architecture+%26+System+Design+Practical+Case+Studies&src=sac&couponCode=LEADERSALE24B) (4h, b)
-    
 -   [Teach Your Kids to Code: Learn to Program Python at Any Age!](https://www.udemy.com/course/teach-your-kids-to-code/?kw=Teach+Your+Kids+to+Code%3A+Learn+to+Program+Python+at+Any+Age%21&src=sac&couponCode=LEADERSALE24B)(6.5h, b)
-    
 -   [Learn C++ File Handling Full Course With (Console) Project](https://www.udemy.com/course/learn-c-file-handling-full-course-with-console-project/?couponCode=KEEPLEARNING)(10.5h, a)
-
 -   [How to Manage a Large IT Project](https://www.udemy.com/course/managing-a-large-it-project/?couponCode=LEADERSALE24B) (6.5h, b)
-
 -   [SQLite for beginners](https://www.udemy.com/course/sqlite-for-beginners/?couponCode=LEADERSALE24B) (4h, a)
-
 -   [Mastering Visual Studio Code (2024) | Udemy](https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=KEEPLEARNING)(8h, a)
 
 # 6. GUI & QT
